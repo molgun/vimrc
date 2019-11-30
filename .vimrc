@@ -36,6 +36,7 @@ Plugin 'jiangmiao/auto-pairs'
 
 Plugin 'elixir-editors/vim-elixir'
 Plugin 'slashmili/alchemist.vim'
+Plugin 'janko/vim-test'
 call vundle#end()            " required
 
 let g:ctrlp_map = '<c-p>'
